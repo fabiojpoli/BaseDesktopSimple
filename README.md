@@ -8,7 +8,7 @@ This was done in PHP, but of course, the part of Ext JS can be perfectly applied
 
 Features CRUD:
 
-- Layou Web Desktop using overrides;
+- Layout Web Desktop using overrides;
 - Latest version of Ext JS;
 - Latest version of Sencha Cmd;
 - Part of the totally abstract PHP;
