@@ -102,7 +102,7 @@ Ext.define('Overrides.ux.desktop.App', {
 
             contextMenuItems: [{ 
                 text   : me.textSettings,
-                handler: me.openSettings,
+                handler: me.onSettings,
                 scope  : me
             }],
 
